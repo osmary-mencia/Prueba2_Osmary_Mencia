@@ -1,4 +1,4 @@
-Prueba de desempeño – Módulo 2 HTML y CSS
+Prueba de Desempeño – Módulo 2 HTML y CSS
 -----------------------------------------
 * Nombre: Osmary Alejandra Mencia Gonzalez
 * Clan: Tayrona
