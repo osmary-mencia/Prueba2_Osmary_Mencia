@@ -26,3 +26,7 @@ indicando su nomnre, tecnologias usadas y el link que muestra el proyecto realiz
 
 ### Contacto 
 Esta pagina muetra dos formas de cotacto, una de forma directa llenando un formulario y otra con los enlaces de reddes sociales.
+
+## Recursos utilizados:
+* HTML
+* CSS
