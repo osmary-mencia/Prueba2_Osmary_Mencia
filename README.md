@@ -1,9 +1,9 @@
 Prueba de desempeño – Módulo 2 HTML y CSS
 -----------------------------------------
-Nombre: Osmary Alejandra Mencia Gonzalez
-Clan: Tayrona
-Correo: osmarymencias@gmail.com
-PPT: 1279140
+* Nombre: Osmary Alejandra Mencia Gonzalez
+* Clan: Tayrona
+* Correo: osmarymencias@gmail.com
+* PPT: 1279140
 
 # PORTAFOLIO PERSONAL
 
