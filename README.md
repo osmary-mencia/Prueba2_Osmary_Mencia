@@ -7,7 +7,7 @@ Prueba de desempeño – Módulo 2 HTML y CSS
 
 # PORTAFOLIO PERSONAL
 
-El portafolio cuentcon una pagina principal llamada index.html la cual almacena un menu de navegacion y un contenido principal.
+El portafolio tiene una pagina principal llamada index.html la cual almacena un menu de navegacion y un contenido principal.
 
 ## Menu de navegacion
 
